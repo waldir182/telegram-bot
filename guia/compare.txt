@@ -1,0 +1,39 @@
+{
+'update_id': 555201907,
+'message': {'message_id': 337,'date': 1635807823,'chat': {'id': 1466322644, 'type': 'private', 'first_name': 'Waldir', 'last_name': 'Cabrera'},
+'text': '/start',
+'entities': [{'type': 'bot_command', 'offset': 0, 'length': 6}],
+'caption_entities': [],
+'photo': [],
+'new_chat_members': [],
+'new_chat_photo': [],
+'delete_chat_photo': False,
+'group_chat_created': False,
+'supergroup_chat_created': False,
+'channel_chat_created': False,
+'from': {'id': 1466322644,
+'first_name': 'Waldir',
+'is_bot': False,
+'last_name': 'Cabrera',
+'language_code': 'en'}}}
+
+
+
+{
+'update_id': 555201911,
+'message': {'message_id': 345,
+'date': 1635807984,
+'chat': {'id': 1466322644,
+'type': 'private',
+'first_name': 'Waldir',
+'last_name': 'Cabrera'},
+'text': '/start',
+'entities': [{'type': 'bot_command', 'offset': 0, 'length': 6}],
+'caption_entities': [],
+'photo': [], 'new_chat_members': [], 'new_chat_photo': [],
+'delete_chat_photo': False, 'group_chat_created': False,
+'supergroup_chat_created': False,
+'channel_chat_created': False,
+'from': {'id': 1466322644, 'first_name': 'Waldir', 'is_bot': False, 'last_name': 'Cabrera', 'language_code': 'en'}}}
+
+
